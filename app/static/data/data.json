@@ -1,0 +1,874 @@
+[
+    {
+        "defendant": "\nVONS, Administered by ALBERTSONS HOLDINGS, ",
+        "applicant": "JOANN KROEPIL",
+        "code": [],
+        "filename": "output/12614758114985928433/0/2022_06_06_Kroepil Joann-0.json"
+    },
+    {
+        "defendant": "\nNORKOL, INC.; GREAT AMERICAN INSURANCE\nadministered by STRATEGIC COMP.; TGS PLASTIC\nCOMP WEST INSURANCE COMPANY, ",
+        "applicant": "",
+        "code": [],
+        "filename": "output/12614758114985928433/1/2022_06_06_Oliver Davis-0.json"
+    },
+    {
+        "defendant": "\nFEDEX GROUND PACKAGE SYSTEMS, INC., permissibly self-insured, administered by\nSEDGWICK CLAIMS MANAGEMENT SERVICES, INC., ",
+        "applicant": "CRISTINA JACKSON",
+        "code": [
+            "section 4663",
+            "section 4663"
+        ],
+        "filename": "output/12614758114985928433/10/2022_06_15_Jackson Cristina-0.json"
+    },
+    {
+        "defendant": "\nMULTILINGUAL SOCIAL SERVICES and EMPLOYERS COMPENSATION\nINSURANCE COMPANY, ",
+        "applicant": "RUZANNA MAGHAKYAN",
+        "code": [
+            "section 4660",
+            "section 4660",
+            "section 4660",
+            "section 4660"
+        ],
+        "filename": "output/12614758114985928433/11/2022_06_17_Maghakyan Ruzanna-0.json"
+    },
+    {
+        "defendant": "\nBAYVIEW ENVIRONMENTAL SERVICES;\nGREAT DIVIDE INSURANCE COMPANY, Adjusted by BERKELEY\nENTERTAINMENT, ",
+        "applicant": "Bay Area. Applicant",
+        "code": [
+            "section 5906",
+            "section 3202"
+        ],
+        "filename": "output/12614758114985928433/12/2022_06_17_Melendez Edil David-0.json"
+    },
+    {
+        "defendant": "",
+        "applicant": "",
+        "code": [],
+        "filename": "output/12614758114985928433/12/2022_06_17_Melendez Edil David-1.json"
+    },
+    {
+        "defendant": "\nWASATCH PROPERTY MANAGEMENT, INC. and HARTFORD UNDERWRITERS\nINSURANCE COMPANY, ",
+        "applicant": "GABRIEL QUINTERO",
+        "code": [],
+        "filename": "output/12614758114985928433/13/2022_06_17_Quintero Gabriel-0.json"
+    },
+    {
+        "defendant": "\nDENNY'S, INC.; THE HARTFORD INSURANCE COMPANY\nOF THE MIDWEST, administered by GALLAGHER\nBASSETT SERVICES, INC., ",
+        "applicant": "SANDRA GENOVESE",
+        "code": [
+            "section 5902"
+        ],
+        "filename": "output/12614758114985928433/14/2022_06_20_Genovese Sandra-0.json"
+    },
+    {
+        "defendant": "\nCOUNTY OF LOS ANGELES, permissibly self-insured, administered by SEDGWICK\nCLAIMS MANAGEMENT SERVICES, ",
+        "applicant": "DONALD SWEETNAM",
+        "code": [
+            "section 5701",
+            "section 5906"
+        ],
+        "filename": "output/12614758114985928433/15/2022_06_20_Sweetnam Donald-0.json"
+    },
+    {
+        "defendant": "",
+        "applicant": "",
+        "code": [
+            "section 4909",
+            "section 3861",
+            "section 3861",
+            "section 4909",
+            "section 4062",
+            "section 4062",
+            "section 4062",
+            "section 4062",
+            "section 4062",
+            "section 4062",
+            "section 4062",
+            "section 4062"
+        ],
+        "filename": "output/12614758114985928433/15/2022_06_20_Sweetnam Donald-1.json"
+    },
+    {
+        "defendant": "\nSTARVIEW ADOLESCENT CENTER; QUALITY COMP, administered by ATHENS\nADMINSTRATORS, ",
+        "applicant": "ARMANDO ZEPEDA",
+        "code": [],
+        "filename": "output/12614758114985928433/16/2022_06_20_Zepeda Armando-0.json"
+    },
+    {
+        "defendant": "",
+        "applicant": "in the Applicant",
+        "code": [
+            "section 4600",
+            "section 4600",
+            "section 4610",
+            "section 4610",
+            "section 4610",
+            "section 4610",
+            "section 4610"
+        ],
+        "filename": "output/12614758114985928433/16/2022_06_20_Zepeda Armando-1.json"
+    },
+    {
+        "defendant": "\nMULCH MASTERS; STATE COMPENSATION\nINSURANCE FUND, ",
+        "applicant": "CARLOS ALVAREZ",
+        "code": [
+            "section 5909",
+            "section 5909",
+            "section 4909"
+        ],
+        "filename": "output/12614758114985928433/17/2022_06_21_Alvarez Carlos-0.json"
+    },
+    {
+        "defendant": "\nCOUNTY OF SONOMA/HEALTH SERVICES DEPT.; permissibly self-insured,\nadministered by INTERCARE HOLDINGS INSURANCE SERVICES,\n",
+        "applicant": "VINCENT HELPER",
+        "code": [],
+        "filename": "output/12614758114985928433/18/2022_06_21_Helper Vincent-0.json"
+    },
+    {
+        "defendant": "",
+        "applicant": "DANNY MCINTURFF",
+        "code": [
+            "section 5002"
+        ],
+        "filename": "output/12614758114985928433/19/2022_06_21_McInturff Danny-0.json"
+    },
+    {
+        "defendant": "",
+        "applicant": "DAVID JONES",
+        "code": [],
+        "filename": "output/12614758114985928433/2/2022_06_08_Jones David-0.json"
+    },
+    {
+        "defendant": "\nTIERRA DEL SOL; CYPRESS INSURANCE, ",
+        "applicant": "MARIA ORTEGA",
+        "code": [
+            "section 4660",
+            "section 4660",
+            "section 4660",
+            "section 4660",
+            "section 4664"
+        ],
+        "filename": "output/12614758114985928433/20/2022_06_21_Ortega Maria-0.json"
+    },
+    {
+        "defendant": "\nLOS ANGELES COUNTY METROPOLITAN TRANSIT AUTHORITY,\npermissibly self-insured, ",
+        "applicant": "GWENDOLYN SYKES",
+        "code": [
+            "section 4663",
+            "section 4664",
+            "section 4663",
+            "section 4664",
+            "section 5410",
+            "section 4664",
+            "section 4664",
+            "section 4664",
+            "section 4664"
+        ],
+        "filename": "output/12614758114985928433/21/2022_06_21_Sykes Gwendolyn-0.json"
+    },
+    {
+        "defendant": "",
+        "applicant": "",
+        "code": [],
+        "filename": "output/12614758114985928433/21/2022_06_21_Sykes Gwendolyn-1.json"
+    },
+    {
+        "defendant": "\nNATIONAL COURIER SYSTEMS; and SUPERIOR NATIONAL INSURANCE, in\nliquidation, administered by CALIFORNIA INSURANCE GUARANTEE\nASSOCIATION; CITY OF OAKLAND, permissibly self-insured, administered by\nJT2 INTEGRATED RESOURCES, ",
+        "applicant": "CHARLOTTE UTSEY",
+        "code": [
+            "section 4663"
+        ],
+        "filename": "output/12614758114985928433/22/2022_06_21_Utsey Charlotte-0.json"
+    },
+    {
+        "defendant": "",
+        "applicant": "YSIDRO ANAYA",
+        "code": [
+            "section 3212",
+            "section 4663",
+            "section 3212",
+            "section 3212",
+            "section 3212",
+            "section 4663",
+            "section 4663",
+            "section 3212",
+            "section 4663",
+            "section 4663"
+        ],
+        "filename": "output/12614758114985928433/23/2022_06_24_Anaya Ysidro-0.json"
+    },
+    {
+        "defendant": "\nALLIED PROFESSIONAL NURSING CARE, INC.;\nSEDGWICK CLAIMS MANAGEMENT SERVICES, INC., ",
+        "applicant": "DELENA ASHLEY",
+        "code": [],
+        "filename": "output/12614758114985928433/24/2022_06_24_Ashley Delena-0.json"
+    },
+    {
+        "defendant": "\nARAMARK, INC.;\nACE AMERICAN INSURANE COMPANY, administered by\nSEDGWICK CLAIMS MANAGEMENT SERVICES, INC., ",
+        "applicant": "",
+        "code": [
+            "section 5313"
+        ],
+        "filename": "output/12614758114985928433/25/2022_06_24_Oaks Melinda Dresser-0.json"
+    },
+    {
+        "defendant": "",
+        "applicant": "",
+        "code": [],
+        "filename": "output/12614758114985928433/25/2022_06_24_Oaks Melinda Dresser-1.json"
+    },
+    {
+        "defendant": "\nBARBARA F. RAUSCH and STATE COMPENSATION INSURANCE FUND, ",
+        "applicant": "RAMIREZ ROBLES",
+        "code": [
+            "section 4600",
+            "section 4603",
+            "section 5811",
+            "section 5811"
+        ],
+        "filename": "output/12614758114985928433/26/2022_06_24_Ramirez Emilia-0.json"
+    },
+    {
+        "defendant": "\nSCHIRESON BROS., INC., dba VOLUTONE and EMPLOYERS\nASSURANCE COMPANY, ",
+        "applicant": "ROBERT BACKUS",
+        "code": [
+            "section 3202",
+            "section 10945",
+            "section 5705"
+        ],
+        "filename": "output/12614758114985928433/27/2022_06_27_Backus Robert-0.json"
+    },
+    {
+        "defendant": "\nPORTERVILLE UNIFIED SCHOOL DISTRICT, permissibly self-insured,\nadministered by KEENAN & ASSOCIATES, ",
+        "applicant": "DANIEL HAZEN",
+        "code": [
+            "section 5909",
+            "section 4061",
+            "section 4062",
+            "section 4062",
+            "section 4062",
+            "section 4062",
+            "section 4061",
+            "section 4062",
+            "section 4060"
+        ],
+        "filename": "output/12614758114985928433/28/2022_06_27_Hazen Daniel-0.json"
+    },
+    {
+        "defendant": "\nPELICAN BAY STATE PRISON, Legally Uninsured; administered by STATE\nCOMPENSATION INSURANCE FUND, ",
+        "applicant": "BYRNE MILLER",
+        "code": [
+            "section 5313"
+        ],
+        "filename": "output/12614758114985928433/29/2022_06_27_Miller Byrne-0.json"
+    },
+    {
+        "defendant": "\nCOUNTY OF LOS ANGELES DEPARTMENT OF REGIONAL PLANNING, permissibly\nself-insured, administered by SEDGWICK CLAIMS MANAGEMENT SERVICES,\n",
+        "applicant": "CLAYTON LARSON",
+        "code": [
+            "section 3208",
+            "section 3208",
+            "section 3208",
+            "section 5405",
+            "section 5405",
+            "section 4605",
+            "section 4605",
+            "section 4061",
+            "section 4605"
+        ],
+        "filename": "output/12614758114985928433/3/2022_06_08_Larson Clayton-0.json"
+    },
+    {
+        "defendant": "",
+        "applicant": "",
+        "code": [],
+        "filename": "output/12614758114985928433/3/2022_06_08_Larson Clayton-1.json"
+    },
+    {
+        "defendant": "\nKAISER PERMANENTE, Permissibly Self-Insured;\nAdministered by SEDGWICK CLAIMS MANAGEMENT SERVICES, ",
+        "applicant": "HILL SANDERS",
+        "code": [
+            "section 5811",
+            "section 5811"
+        ],
+        "filename": "output/12614758114985928433/30/2022_06_27_Sanders Lisa Hill-0.json"
+    },
+    {
+        "defendant": "\nCOUNTY OF MONTEREY, permissibly self-insured, administered by\nINTERCARE HOLDING SERVICES, INC., ",
+        "applicant": "RANDAL RAGSAC",
+        "code": [
+            "section 5001",
+            "section 5002"
+        ],
+        "filename": "output/12614758114985928433/31/2022_06_28_Ragsac Randal-0.json"
+    },
+    {
+        "defendant": "\nSHILOH RANCH and/or KATHLEEN DOWNS; STATE COMPENSATION\nINSURANCE FUND, ",
+        "applicant": "LARA SOLANO",
+        "code": [
+            "section 5001",
+            "section 5002"
+        ],
+        "filename": "output/12614758114985928433/32/2022_06_28_Solano Efren Lara-0.json"
+    },
+    {
+        "defendant": "\nSTATE OF CALIFORNIA, DEPARTMENT OF CORRECTION & REHABILITATION,\nlegally uninsured, adjusted by STATE COMPENSATION INSURANCE FUND;\nSUBSEQUENT INJURIES BENEFITS TRUST FUND, ",
+        "applicant": "JOHN FERNANDO",
+        "code": [
+            "section 5909",
+            "section 5909",
+            "section 5909"
+        ],
+        "filename": "output/12614758114985928433/33/2022_06_29_Fernando John-0.json"
+    },
+    {
+        "defendant": "\nWELLS FARGO, permissibly self-insured,\nthrough OLD REPUBLIC; SEDGWICK CMS, ",
+        "applicant": "MARINE KYUCHKYAN",
+        "code": [],
+        "filename": "output/12614758114985928433/34/2022_06_29_Kyuchkyan Marine-0.json"
+    },
+    {
+        "defendant": "\nJB WHOLESALE ROOFING and SAMSUNG FIRE AND MARINE INSURANCE\nCOMPANY; administered by BROADSPIRE, ",
+        "applicant": "LUIS RODRIGUEZ",
+        "code": [],
+        "filename": "output/12614758114985928433/35/2022_06_29_Rodriguez Jose Luis-0.json"
+    },
+    {
+        "defendant": "\nCLOUGHERTY PACKING, permissibly self-insured, administered by ESIS, ",
+        "applicant": "BLANCA ZELAYA",
+        "code": [],
+        "filename": "output/12614758114985928433/36/2022_06_29_Zelaya Blanca-0.json"
+    },
+    {
+        "defendant": "\nDOLLAR THRIFTY AUTOMOTIVE GROUP (HERTZ CORPORATION);\nACE AMERICAN INSURANCE COMPANY, ",
+        "applicant": "LADYLYN CORDERO",
+        "code": [
+            "section 4056",
+            "section 5502"
+        ],
+        "filename": "output/12614758114985928433/37/2022_06_30_Cordero Ladylyn-0.json"
+    },
+    {
+        "defendant": "\nZIONS BANCORPORATION, N.A.;\nWCF NATIONAL INSURANCE COMPANY, ",
+        "applicant": "PATRICK DURAN",
+        "code": [],
+        "filename": "output/12614758114985928433/38/2022_06_30_Duran Patrick-0.json"
+    },
+    {
+        "defendant": "\nSTATE OF CALIFORNIA, DEPARTMENT OF CORRECTIONS AND\nREHABILITATION, LEGALLY UNINSURED, ADMINISTERED BY STATE\nCOMPENSATION INSURANCE FUND, ",
+        "applicant": "M. GONZALES",
+        "code": [],
+        "filename": "output/12614758114985928433/39/2022_06_30_Gonzales Carlos-0.json"
+    },
+    {
+        "defendant": "\nDON'S AUTO BODY; STATE COMPENSATION INSURANCE FUND, ",
+        "applicant": "JIM CAMDEN",
+        "code": [
+            "section 5701"
+        ],
+        "filename": "output/12614758114985928433/4/2022_06_10_Camden Jim-0.json"
+    },
+    {
+        "defendant": "",
+        "applicant": "",
+        "code": [],
+        "filename": "output/12614758114985928433/40/google_invoice-0.json"
+    },
+    {
+        "defendant": "",
+        "applicant": "",
+        "code": [],
+        "filename": "output/12614758114985928433/41/office-depot-receipt-0.json"
+    },
+    {
+        "defendant": "\nFULLERTON FOODS; ACE AMERICAN INSURANCE, Administered By\nBROADSPIRE, ",
+        "applicant": "JAVIER ESPINO",
+        "code": [
+            "section 4603",
+            "section 4600",
+            "section 4600",
+            "section 2000",
+            "section 4600",
+            "section 4600",
+            "section 4600",
+            "section 4600",
+            "section 4603",
+            "section 4600"
+        ],
+        "filename": "output/12614758114985928433/5/2022_06_10_Espino Javier-0.json"
+    },
+    {
+        "defendant": "",
+        "applicant": "",
+        "code": [],
+        "filename": "output/12614758114985928433/5/2022_06_10_Espino Javier-1.json"
+    },
+    {
+        "defendant": "",
+        "applicant": "CARLOS GAMINO",
+        "code": [],
+        "filename": "output/12614758114985928433/6/2022_06_13_Gamino Carlos-0.json"
+    },
+    {
+        "defendant": "",
+        "applicant": "SHARLENE KENNEDY",
+        "code": [],
+        "filename": "output/12614758114985928433/7/2022_06_13_Kennedy Sharlene-0.json"
+    },
+    {
+        "defendant": "\nMILLARD LINEAGE LOGISTICS;\nACE AMERICAN INSURANCE COMPANY, ",
+        "applicant": "TRACY PLEASANT",
+        "code": [
+            "section 5313"
+        ],
+        "filename": "output/12614758114985928433/8/2022_06_13_Pleasant tracy-0.json"
+    },
+    {
+        "defendant": "\nTRI-STATE EMPLOYMENT SERVICES, INC.; CALIFORNIA INSURANCE\nGUARANTEE ASSOCIATION by its servicing facility SEDGWICK CMS for\nLUMBERMEN'S UNDERWRITING ALLIANCE; CONAGRA FOODS, INC.,\npermissibly self-insured, ",
+        "applicant": "DAVID PEREZ",
+        "code": [
+            "section 5909",
+            "section 5909",
+            "section 1063",
+            "section 1063",
+            "section 3211"
+        ],
+        "filename": "output/12614758114985928433/9/2022_06_14_Perez David-0.json"
+    },
+    {
+        "defendant": "\nVONS, Administered by ALBERTSONS HOLDINGS, ",
+        "applicant": "JOANN KROEPIL",
+        "code": [],
+        "filename": "output/16435294507375990355/0/2022_06_06_Kroepil Joann-0.json"
+    },
+    {
+        "defendant": "\nNORKOL, INC.; GREAT AMERICAN INSURANCE\nadministered by STRATEGIC COMP.; TGS PLASTIC\nCOMP WEST INSURANCE COMPANY, ",
+        "applicant": "",
+        "code": [],
+        "filename": "output/16435294507375990355/1/2022_06_06_Oliver Davis-0.json"
+    },
+    {
+        "defendant": "\nFEDEX GROUND PACKAGE SYSTEMS, INC., permissibly self-insured, administered by\nSEDGWICK CLAIMS MANAGEMENT SERVICES, INC., ",
+        "applicant": "CRISTINA JACKSON",
+        "code": [
+            "section 4663",
+            "section 4663"
+        ],
+        "filename": "output/16435294507375990355/10/2022_06_15_Jackson Cristina-0.json"
+    },
+    {
+        "defendant": "\nMULTILINGUAL SOCIAL SERVICES and EMPLOYERS COMPENSATION\nINSURANCE COMPANY, ",
+        "applicant": "RUZANNA MAGHAKYAN",
+        "code": [
+            "section 4660",
+            "section 4660",
+            "section 4660",
+            "section 4660"
+        ],
+        "filename": "output/16435294507375990355/11/2022_06_17_Maghakyan Ruzanna-0.json"
+    },
+    {
+        "defendant": "\nBAYVIEW ENVIRONMENTAL SERVICES;\nGREAT DIVIDE INSURANCE COMPANY, Adjusted by BERKELEY\nENTERTAINMENT, ",
+        "applicant": "Bay Area. Applicant",
+        "code": [
+            "section 5906",
+            "section 3202"
+        ],
+        "filename": "output/16435294507375990355/12/2022_06_17_Melendez Edil David-0.json"
+    },
+    {
+        "defendant": "",
+        "applicant": "",
+        "code": [],
+        "filename": "output/16435294507375990355/12/2022_06_17_Melendez Edil David-1.json"
+    },
+    {
+        "defendant": "\nWASATCH PROPERTY MANAGEMENT, INC. and HARTFORD UNDERWRITERS\nINSURANCE COMPANY, ",
+        "applicant": "GABRIEL QUINTERO",
+        "code": [],
+        "filename": "output/16435294507375990355/13/2022_06_17_Quintero Gabriel-0.json"
+    },
+    {
+        "defendant": "\nDENNY'S, INC.; THE HARTFORD INSURANCE COMPANY\nOF THE MIDWEST, administered by GALLAGHER\nBASSETT SERVICES, INC., ",
+        "applicant": "SANDRA GENOVESE",
+        "code": [
+            "section 5902"
+        ],
+        "filename": "output/16435294507375990355/14/2022_06_20_Genovese Sandra-0.json"
+    },
+    {
+        "defendant": "\nCOUNTY OF LOS ANGELES, permissibly self-insured, administered by SEDGWICK\nCLAIMS MANAGEMENT SERVICES, ",
+        "applicant": "DONALD SWEETNAM",
+        "code": [
+            "section 5701",
+            "section 5906"
+        ],
+        "filename": "output/16435294507375990355/15/2022_06_20_Sweetnam Donald-0.json"
+    },
+    {
+        "defendant": "",
+        "applicant": "",
+        "code": [
+            "section 4909",
+            "section 3861",
+            "section 3861",
+            "section 4909",
+            "section 4062",
+            "section 4062",
+            "section 4062",
+            "section 4062",
+            "section 4062",
+            "section 4062",
+            "section 4062",
+            "section 4062"
+        ],
+        "filename": "output/16435294507375990355/15/2022_06_20_Sweetnam Donald-1.json"
+    },
+    {
+        "defendant": "\nSTARVIEW ADOLESCENT CENTER; QUALITY COMP, administered by ATHENS\nADMINSTRATORS, ",
+        "applicant": "ARMANDO ZEPEDA",
+        "code": [],
+        "filename": "output/16435294507375990355/16/2022_06_20_Zepeda Armando-0.json"
+    },
+    {
+        "defendant": "",
+        "applicant": "in the Applicant",
+        "code": [
+            "section 4600",
+            "section 4600",
+            "section 4610",
+            "section 4610",
+            "section 4610",
+            "section 4610",
+            "section 4610"
+        ],
+        "filename": "output/16435294507375990355/16/2022_06_20_Zepeda Armando-1.json"
+    },
+    {
+        "defendant": "\nMULCH MASTERS; STATE COMPENSATION\nINSURANCE FUND, ",
+        "applicant": "CARLOS ALVAREZ",
+        "code": [
+            "section 5909",
+            "section 5909",
+            "section 4909"
+        ],
+        "filename": "output/16435294507375990355/17/2022_06_21_Alvarez Carlos-0.json"
+    },
+    {
+        "defendant": "\nCOUNTY OF SONOMA/HEALTH SERVICES DEPT.; permissibly self-insured,\nadministered by INTERCARE HOLDINGS INSURANCE SERVICES,\n",
+        "applicant": "VINCENT HELPER",
+        "code": [],
+        "filename": "output/16435294507375990355/18/2022_06_21_Helper Vincent-0.json"
+    },
+    {
+        "defendant": "",
+        "applicant": "DANNY MCINTURFF",
+        "code": [
+            "section 5002"
+        ],
+        "filename": "output/16435294507375990355/19/2022_06_21_McInturff Danny-0.json"
+    },
+    {
+        "defendant": "",
+        "applicant": "DAVID JONES",
+        "code": [],
+        "filename": "output/16435294507375990355/2/2022_06_08_Jones David-0.json"
+    },
+    {
+        "defendant": "\nTIERRA DEL SOL; CYPRESS INSURANCE, ",
+        "applicant": "MARIA ORTEGA",
+        "code": [
+            "section 4660",
+            "section 4660",
+            "section 4660",
+            "section 4660",
+            "section 4664"
+        ],
+        "filename": "output/16435294507375990355/20/2022_06_21_Ortega Maria-0.json"
+    },
+    {
+        "defendant": "\nLOS ANGELES COUNTY METROPOLITAN TRANSIT AUTHORITY,\npermissibly self-insured, ",
+        "applicant": "GWENDOLYN SYKES",
+        "code": [
+            "section 4663",
+            "section 4664",
+            "section 4663",
+            "section 4664",
+            "section 5410",
+            "section 4664",
+            "section 4664",
+            "section 4664",
+            "section 4664"
+        ],
+        "filename": "output/16435294507375990355/21/2022_06_21_Sykes Gwendolyn-0.json"
+    },
+    {
+        "defendant": "",
+        "applicant": "",
+        "code": [],
+        "filename": "output/16435294507375990355/21/2022_06_21_Sykes Gwendolyn-1.json"
+    },
+    {
+        "defendant": "\nNATIONAL COURIER SYSTEMS; and SUPERIOR NATIONAL INSURANCE, in\nliquidation, administered by CALIFORNIA INSURANCE GUARANTEE\nASSOCIATION; CITY OF OAKLAND, permissibly self-insured, administered by\nJT2 INTEGRATED RESOURCES, ",
+        "applicant": "CHARLOTTE UTSEY",
+        "code": [
+            "section 4663"
+        ],
+        "filename": "output/16435294507375990355/22/2022_06_21_Utsey Charlotte-0.json"
+    },
+    {
+        "defendant": "",
+        "applicant": "YSIDRO ANAYA",
+        "code": [
+            "section 3212",
+            "section 4663",
+            "section 3212",
+            "section 3212",
+            "section 3212",
+            "section 4663",
+            "section 4663",
+            "section 3212",
+            "section 4663",
+            "section 4663"
+        ],
+        "filename": "output/16435294507375990355/23/2022_06_24_Anaya Ysidro-0.json"
+    },
+    {
+        "defendant": "\nALLIED PROFESSIONAL NURSING CARE, INC.;\nSEDGWICK CLAIMS MANAGEMENT SERVICES, INC., ",
+        "applicant": "DELENA ASHLEY",
+        "code": [],
+        "filename": "output/16435294507375990355/24/2022_06_24_Ashley Delena-0.json"
+    },
+    {
+        "defendant": "\nARAMARK, INC.;\nACE AMERICAN INSURANE COMPANY, administered by\nSEDGWICK CLAIMS MANAGEMENT SERVICES, INC., ",
+        "applicant": "",
+        "code": [
+            "section 5313"
+        ],
+        "filename": "output/16435294507375990355/25/2022_06_24_Oaks Melinda Dresser-0.json"
+    },
+    {
+        "defendant": "",
+        "applicant": "",
+        "code": [],
+        "filename": "output/16435294507375990355/25/2022_06_24_Oaks Melinda Dresser-1.json"
+    },
+    {
+        "defendant": "\nBARBARA F. RAUSCH and STATE COMPENSATION INSURANCE FUND, ",
+        "applicant": "RAMIREZ ROBLES",
+        "code": [
+            "section 4600",
+            "section 4603",
+            "section 5811",
+            "section 5811"
+        ],
+        "filename": "output/16435294507375990355/26/2022_06_24_Ramirez Emilia-0.json"
+    },
+    {
+        "defendant": "\nSCHIRESON BROS., INC., dba VOLUTONE and EMPLOYERS\nASSURANCE COMPANY, ",
+        "applicant": "ROBERT BACKUS",
+        "code": [
+            "section 3202",
+            "section 10945",
+            "section 5705"
+        ],
+        "filename": "output/16435294507375990355/27/2022_06_27_Backus Robert-0.json"
+    },
+    {
+        "defendant": "\nPORTERVILLE UNIFIED SCHOOL DISTRICT, permissibly self-insured,\nadministered by KEENAN & ASSOCIATES, ",
+        "applicant": "DANIEL HAZEN",
+        "code": [
+            "section 5909",
+            "section 4061",
+            "section 4062",
+            "section 4062",
+            "section 4062",
+            "section 4062",
+            "section 4061",
+            "section 4062",
+            "section 4060"
+        ],
+        "filename": "output/16435294507375990355/28/2022_06_27_Hazen Daniel-0.json"
+    },
+    {
+        "defendant": "\nPELICAN BAY STATE PRISON, Legally Uninsured; administered by STATE\nCOMPENSATION INSURANCE FUND, ",
+        "applicant": "BYRNE MILLER",
+        "code": [
+            "section 5313"
+        ],
+        "filename": "output/16435294507375990355/29/2022_06_27_Miller Byrne-0.json"
+    },
+    {
+        "defendant": "\nCOUNTY OF LOS ANGELES DEPARTMENT OF REGIONAL PLANNING, permissibly\nself-insured, administered by SEDGWICK CLAIMS MANAGEMENT SERVICES,\n",
+        "applicant": "CLAYTON LARSON",
+        "code": [
+            "section 3208",
+            "section 3208",
+            "section 3208",
+            "section 5405",
+            "section 5405",
+            "section 4605",
+            "section 4605",
+            "section 4061",
+            "section 4605"
+        ],
+        "filename": "output/16435294507375990355/3/2022_06_08_Larson Clayton-0.json"
+    },
+    {
+        "defendant": "",
+        "applicant": "",
+        "code": [],
+        "filename": "output/16435294507375990355/3/2022_06_08_Larson Clayton-1.json"
+    },
+    {
+        "defendant": "\nKAISER PERMANENTE, Permissibly Self-Insured;\nAdministered by SEDGWICK CLAIMS MANAGEMENT SERVICES, ",
+        "applicant": "HILL SANDERS",
+        "code": [
+            "section 5811",
+            "section 5811"
+        ],
+        "filename": "output/16435294507375990355/30/2022_06_27_Sanders Lisa Hill-0.json"
+    },
+    {
+        "defendant": "\nCOUNTY OF MONTEREY, permissibly self-insured, administered by\nINTERCARE HOLDING SERVICES, INC., ",
+        "applicant": "RANDAL RAGSAC",
+        "code": [
+            "section 5001",
+            "section 5002"
+        ],
+        "filename": "output/16435294507375990355/31/2022_06_28_Ragsac Randal-0.json"
+    },
+    {
+        "defendant": "\nSHILOH RANCH and/or KATHLEEN DOWNS; STATE COMPENSATION\nINSURANCE FUND, ",
+        "applicant": "LARA SOLANO",
+        "code": [
+            "section 5001",
+            "section 5002"
+        ],
+        "filename": "output/16435294507375990355/32/2022_06_28_Solano Efren Lara-0.json"
+    },
+    {
+        "defendant": "\nSTATE OF CALIFORNIA, DEPARTMENT OF CORRECTION & REHABILITATION,\nlegally uninsured, adjusted by STATE COMPENSATION INSURANCE FUND;\nSUBSEQUENT INJURIES BENEFITS TRUST FUND, ",
+        "applicant": "JOHN FERNANDO",
+        "code": [
+            "section 5909",
+            "section 5909",
+            "section 5909"
+        ],
+        "filename": "output/16435294507375990355/33/2022_06_29_Fernando John-0.json"
+    },
+    {
+        "defendant": "\nWELLS FARGO, permissibly self-insured,\nthrough OLD REPUBLIC; SEDGWICK CMS, ",
+        "applicant": "MARINE KYUCHKYAN",
+        "code": [],
+        "filename": "output/16435294507375990355/34/2022_06_29_Kyuchkyan Marine-0.json"
+    },
+    {
+        "defendant": "\nJB WHOLESALE ROOFING and SAMSUNG FIRE AND MARINE INSURANCE\nCOMPANY; administered by BROADSPIRE, ",
+        "applicant": "LUIS RODRIGUEZ",
+        "code": [],
+        "filename": "output/16435294507375990355/35/2022_06_29_Rodriguez Jose Luis-0.json"
+    },
+    {
+        "defendant": "\nCLOUGHERTY PACKING, permissibly self-insured, administered by ESIS, ",
+        "applicant": "BLANCA ZELAYA",
+        "code": [],
+        "filename": "output/16435294507375990355/36/2022_06_29_Zelaya Blanca-0.json"
+    },
+    {
+        "defendant": "\nDOLLAR THRIFTY AUTOMOTIVE GROUP (HERTZ CORPORATION);\nACE AMERICAN INSURANCE COMPANY, ",
+        "applicant": "LADYLYN CORDERO",
+        "code": [
+            "section 4056",
+            "section 5502"
+        ],
+        "filename": "output/16435294507375990355/37/2022_06_30_Cordero Ladylyn-0.json"
+    },
+    {
+        "defendant": "\nZIONS BANCORPORATION, N.A.;\nWCF NATIONAL INSURANCE COMPANY, ",
+        "applicant": "PATRICK DURAN",
+        "code": [],
+        "filename": "output/16435294507375990355/38/2022_06_30_Duran Patrick-0.json"
+    },
+    {
+        "defendant": "\nSTATE OF CALIFORNIA, DEPARTMENT OF CORRECTIONS AND\nREHABILITATION, LEGALLY UNINSURED, ADMINISTERED BY STATE\nCOMPENSATION INSURANCE FUND, ",
+        "applicant": "M. GONZALES",
+        "code": [],
+        "filename": "output/16435294507375990355/39/2022_06_30_Gonzales Carlos-0.json"
+    },
+    {
+        "defendant": "\nDON'S AUTO BODY; STATE COMPENSATION INSURANCE FUND, ",
+        "applicant": "JIM CAMDEN",
+        "code": [
+            "section 5701"
+        ],
+        "filename": "output/16435294507375990355/4/2022_06_10_Camden Jim-0.json"
+    },
+    {
+        "defendant": "",
+        "applicant": "",
+        "code": [],
+        "filename": "output/16435294507375990355/40/google_invoice-0.json"
+    },
+    {
+        "defendant": "",
+        "applicant": "",
+        "code": [],
+        "filename": "output/16435294507375990355/41/office-depot-receipt-0.json"
+    },
+    {
+        "defendant": "\nFULLERTON FOODS; ACE AMERICAN INSURANCE, Administered By\nBROADSPIRE, ",
+        "applicant": "JAVIER ESPINO",
+        "code": [
+            "section 4603",
+            "section 4600",
+            "section 4600",
+            "section 2000",
+            "section 4600",
+            "section 4600",
+            "section 4600",
+            "section 4600",
+            "section 4603",
+            "section 4600"
+        ],
+        "filename": "output/16435294507375990355/5/2022_06_10_Espino Javier-0.json"
+    },
+    {
+        "defendant": "",
+        "applicant": "",
+        "code": [],
+        "filename": "output/16435294507375990355/5/2022_06_10_Espino Javier-1.json"
+    },
+    {
+        "defendant": "",
+        "applicant": "CARLOS GAMINO",
+        "code": [],
+        "filename": "output/16435294507375990355/6/2022_06_13_Gamino Carlos-0.json"
+    },
+    {
+        "defendant": "",
+        "applicant": "SHARLENE KENNEDY",
+        "code": [],
+        "filename": "output/16435294507375990355/7/2022_06_13_Kennedy Sharlene-0.json"
+    },
+    {
+        "defendant": "\nMILLARD LINEAGE LOGISTICS;\nACE AMERICAN INSURANCE COMPANY, ",
+        "applicant": "TRACY PLEASANT",
+        "code": [
+            "section 5313"
+        ],
+        "filename": "output/16435294507375990355/8/2022_06_13_Pleasant tracy-0.json"
+    },
+    {
+        "defendant": "\nTRI-STATE EMPLOYMENT SERVICES, INC.; CALIFORNIA INSURANCE\nGUARANTEE ASSOCIATION by its servicing facility SEDGWICK CMS for\nLUMBERMEN'S UNDERWRITING ALLIANCE; CONAGRA FOODS, INC.,\npermissibly self-insured, ",
+        "applicant": "DAVID PEREZ",
+        "code": [
+            "section 5909",
+            "section 5909",
+            "section 1063",
+            "section 1063",
+            "section 3211"
+        ],
+        "filename": "output/16435294507375990355/9/2022_06_14_Perez David-0.json"
+    }
+]
