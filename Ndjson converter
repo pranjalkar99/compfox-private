@@ -1,0 +1,30 @@
+#count=0
+import nltk.corpus
+nltk.download('stopwords')
+from nltk.corpus import stopwords
+nltk.download('punkt')
+stop = stopwords.words('english')
+
+with open("subset_11th.json","r") as read_file:
+    data = json.load(read_file)
+    
+#import pickle
+#new_json=open("trial1_ndjson.json","w")
+for record in data:
+    #count+=1
+    texzt=record["raw"].strip("\n")
+    texzzt = " ".join([word for word in texzt.split() if word not in (stop)])
+    tokens = nltk.word_tokenize(texzzt)
+    joined_token=" ".join(tokens)
+    join=joined_token.replace('!', '')
+    join=join.replace('(', '')
+    join=join.replace(')', '')
+    join=join.replace('\\', '')
+    join=join.replace('/', '').strip("\n")
+    tex={"text":str(join),"dummy":record["case_name"]}
+    
+    obj={"case_type":record["case_type"],"def":record["defandant"].strip("\n"),"appl":record["applicant"],"case_code":record["case_code"],"name":record["case_name"].strip("\n"),"labour_code":record["labour_cases"],"district":record["district"].strip("\n"),"date":record["date"],"ref":record["case_references"],"text_token":tex}
+    with open('configtrial-31m.json', 'a') as config_dictionary_file:
+        json.dump(obj, config_dictionary_file)
+        config_dictionary_file.write("\n")
+    #print(obj)
